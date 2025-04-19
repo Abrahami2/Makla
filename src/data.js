@@ -36,7 +36,7 @@ export const menuItems = {
     { name: '10pc Whole Wings And Fries', description: 'Ten whole wings with French fries', price: 16.99 },
     { name: '6pc Half Wings And Fries', description: 'Six half wings with French fries', price: 8.99 },
     { name: '10pc Half Wings And Fries', description: 'Ten half wings with French fries', price: 10.99 },
-    { name: '25pc Half Wings Combo', description: 'Large French Fries and 2 liter soda', price: 20.99 }
+    { name: '25pc Half Wings Combo', description: 'Large French Fries and 2 liter soda', price: 24.99 }
   ],
   seafood: [
     { name: '2pc Tilapia Fillet', description: 'French Fries, tartare sauce, 2 slices bread', price: 10.99 },
